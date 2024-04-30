@@ -1,1 +1,1 @@
-# lspp-github
+# lspp-github-session
